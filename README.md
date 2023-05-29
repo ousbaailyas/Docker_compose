@@ -1,5 +1,5 @@
 # Docker Compose: Simplifying Container Orchestration
-
+[TOC]
 ## Introduction
 
 Docker has revolutionized containerization in the DevOps world, but what about managing applications that require multiple containers? That's where Docker Compose comes in. Docker Compose is a tool that allows you to define and run multi-container applications using a single YAML file. With just a few lines of configuration, you can build, connect, and launch all your containers with ease, saving time and effort in the process.
